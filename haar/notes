@@ -1,0 +1,23 @@
+rspec is very nice, clean, expressive
+we are very early into it but impressed
+autospec is badass, but need to look into color coding
+
+learned basics of raising exceptions and you need lambda in rspec to catch
+them
+<action> unless/if <conditional> syntax
+no need for loops with each_slice (pretty awesome) and map
+ruby seems to stay away from arrow head code
+
+this is interesting:
+    current.each_slice(2) { |a| pairs.push a }
+  remark about enumerators and how we have to have paran's there
+
+with the map call we couldn't use return (which exited the whole function not
+just map)
+had to use the variable to get the value.
+look into ruby having only expressions 
+
+inject and transpose are cool array method
+
+private methods c++ like, requiring a section header like syntax
+
