@@ -23,4 +23,8 @@ class Skill
         @character = params[:character]
     end
 
+    def used_by ability
+        
+    end
+
 end
