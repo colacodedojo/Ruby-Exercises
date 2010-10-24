@@ -18,7 +18,7 @@ class Character
 
     def self.create attrs={}
         validate_attributes attrs
-       new attrs 
+        new attrs 
     end
 
     def initialize params={} 
